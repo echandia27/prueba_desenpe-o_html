@@ -1,0 +1,21 @@
+
+  
+    @media (max-width: 600px) {
+    .navheader a {
+        display: none;
+    }
+     .divheader {
+        margin-right: -7rem;
+    }
+
+    .section1 {
+    
+    margin-left: -6rem;
+    grid-template-columns:1fr;
+  }
+
+  .div .div4section2 {
+    grid-template-columns:1fr;
+  }
+
+}
